@@ -8,7 +8,7 @@ Baixe o Python na Windows Store ou no site oficial (NÃO BAIXE DE SITES DE TERCE
 -Depois de instalado, vá para a área de trabalho do Windows;
 -Abra um prompt de comando apertando a tecla Windows;
 -Digite "CMD" na barra de pesquisa;
--digite "python --versiom" (desse mesmo jeito) e se certifique de que seja a versão "3.x";
+-digite "python --version" (desse mesmo jeito) e se certifique de que seja a versão "3.x";
 Baixe o programa no Github, na aba "code", "download ZIP" e descompacte o arquivo;
 -Com a pasta já decompacta, deve haver dois arquivos: O do programa (simulado) e o READ.ME. Clique com o botão direito do mouse em "simulado", procure pela opção "abrir com" e selecione "Python. 
 
