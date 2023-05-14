@@ -14,7 +14,7 @@ time.sleep(2.5)
 
 print("------------------------------------------------------História:------------------------------------------------------\n")
 time.sleep(0.5)
-historia = input("Qual foi o movimento artístico que surgiu na Europa no século XIV e se caracterizou pela valorização da cultura clássica greco-romana, do racionalismo e do humanismo?\n a) Barroco;\n b) Romantismo;\n c) Renascimento;\n d) Surrealismo;/n e)Expensionismo\n\n--------------------------------Escolha uma das alternativas: A, B, C, D, E--------------------------------:\n\n")
+historia = input("Qual foi o movimento artístico que surgiu na Europa no século XIV e se caracterizou pela valorização da cultura clássica greco-romana, do racionalismo e do humanismo?\n a) Barroco;\n b) Romantismo;\n c) Renascimento;\n d) Surrealismo;\n e)Expensionismo\n\n--------------------------------Escolha uma das alternativas: A, B, C, D, E--------------------------------:\n\n")
 time.sleep(1)
 
 print("------------------------------------------------------Química:------------------------------------------------------\n")
@@ -68,7 +68,7 @@ soma = nota1 + nota2 + nota3 + nota4 + nota5
 
 print("------------------------------------------------------A SUA NOTA SAI EM... 5------------------------------------------------------\n\n")
 time.sleep(1)
-print("4{}")
+print("4")
 time.sleep(1)
 print("3")
 time.sleep(1)
