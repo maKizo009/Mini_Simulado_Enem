@@ -10,9 +10,9 @@ O simulado é interativo e dinâmico. Você pode responder as questões na ordem
 
 ## Quais são as características do simulado?
 
-O simulado foi desenvolvido com base nos conteúdos e nas competências cobrados pelo Enem. As questões foram elaboradas com base em provas anteriores e em fontes confiáveis de informação. O simulado também segue o modelo de correção do Enem, que usa a Teoria de Resposta ao Item (TRI). Isso significa que as questões têm diferentes graus de dificuldade e que a sua nota depende não só do número de acertos, mas também da coerência das suas respostas.
+O simulado foi desenvolvido com base nos conteúdos e nas competências cobrados pelo Enem. As questões foram elaboradas com base em provas anteriores e em fontes confiáveis de informação.
 
-O simulado é atualizado constantemente, com novas questões e melhorias. A versão atual é a 1.5, que trouxe as seguintes novidades:
+O simulado é atualizado constantemente, com novas questões e melhorias. A versão atual é a 1.6, que adiciona confirmação para o usuário repetir o simulado. A versão anterior, 1.5, trouxe:
 
 - Otimizações que deixam o programa mais rápido;
 - Agora o programa mostra as questões que você acertou junto da nota;
